@@ -32,7 +32,7 @@ This repository covers various machine learning algorithms, including both **sup
 Clone the repo and start studying each section step-by-step.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Machine-Learning.git
+git clone https://github.com/esraaabdelrazek/Machine-Learning.git
 ```
 
 ## 📧 Contact
